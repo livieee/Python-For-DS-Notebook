@@ -11,7 +11,7 @@ Python basic data type and library can store data
 
 3. [Pandas](https://github.com/livieee/Python-For-DS-Notebook/blob/master/3%20Pandas.ipynb):  an extremely powerful version of Excel
 
-Pandas vs Numpy:
+## Pandas vs Numpy:
 
 Indeed, pandas provides high level data manipulation tools built on top of NumPy. NumPy by itself is a fairly low-level tool, and will be very much similar to using MATLAB. 
 
