@@ -20,10 +20,7 @@ Pandas on the other hand provides rich time series functionality, data alignment
 Because Numpy's intuition is mathematics (more specifically matrices, akin to MATLAB), while Pandas's is databases (akin to SQL). Numpy goes by rows and columns (rows first, because an element (i, j) of a matrix denotes the ith row and jth column), while Pandas works based on the columns of a database, inside which you choose elements, i.e. rows. Of course you can work directly on indices by using iloc, as you mentioned.
 
 
-
-
 ## Visualization
 
 1. [Matplotlib](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4%20Matplotlib.ipynb)
-
-  - 1a. [Matplotlib Advanced](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4a%20Advanced%20Matplotlib%20Concepts.ipynb)
+    1. [Matplotlib Advanced](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4a%20Advanced%20Matplotlib%20Concepts.ipynb)
