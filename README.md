@@ -25,3 +25,4 @@ Because Numpy's intuition is mathematics (more specifically matrices, akin to MA
 ## Visualization
 
 1. [Matplotlib](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4%20Matplotlib.ipynb)
+  1a. [Matplotlib Advanced](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4a%20Advanced%20Matplotlib%20Concepts.ipynb)
