@@ -24,3 +24,4 @@ Because Numpy's intuition is mathematics (more specifically matrices, akin to MA
 
 1. [Matplotlib](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4%20Matplotlib.ipynb)
     1. [Matplotlib Advanced](https://github.com/livieee/Python-For-DS-Notebook/blob/master/4a%20Advanced%20Matplotlib%20Concepts.ipynb)
+    2. [Seaborn](https://github.com/livieee/Python-For-DS-Notebook/blob/master/5%20Seaborn.ipynb): statistical plots with one line use
