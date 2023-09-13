@@ -1,5 +1,5 @@
 # Python-For-DS-Notebook
-This notebook is for notes on useful package in Python and data science package.
+This notebook is for notes on useful packages in Python and data science packages.
 
 ## Getting Started
 
@@ -13,11 +13,11 @@ Python basic data type and library can store data
 
 ## Pandas vs Numpy:
 
-Indeed, pandas provides high level data manipulation tools built on top of NumPy. NumPy by itself is a fairly low-level tool, and will be very much similar to using MATLAB. 
+Indeed, pandas provide high-level data manipulation tools built on top of NumPy. NumPy by itself is a fairly low-level tool and will be very much similar to using MATLAB. 
 
-Pandas on the other hand provides rich time series functionality, data alignment, NA-friendly statistics, groupby, merge and join methods, and lots of other conveniences. It has become very popular in recent years in financial applications.
+Pandas, on the other hand, provides rich time series functionality, data alignment, NA-friendly statistics, group by, merge and join methods, and lots of other conveniences. It has become very popular in recent years in financial applications.
 
-Because Numpy's intuition is mathematics (more specifically matrices, akin to MATLAB), while Pandas's is databases (akin to SQL). Numpy goes by rows and columns (rows first, because an element (i, j) of a matrix denotes the ith row and jth column), while Pandas works based on the columns of a database, inside which you choose elements, i.e. rows. Of course you can work directly on indices by using iloc, as you mentioned.
+Because Numpy's intuition is mathematics (more specifically matrices, akin to MATLAB), while Pandas's is databases (akin to SQL). Numpy goes by rows and columns (rows first, because an element (i, j) of a matrix denotes the ith row and jth column), while Pandas works based on the columns of a database, inside which you choose elements, i.e. rows. Of course, you can work directly on indices by using iloc, as you mentioned.
 
 
 ## Visualization
